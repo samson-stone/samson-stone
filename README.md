@@ -1,3 +1,3 @@
 # Samson Stone
-## Economic Student at Binghamton University
+## **Economic Student at Binghamton University**
 
