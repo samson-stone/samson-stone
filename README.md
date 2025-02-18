@@ -3,7 +3,9 @@
 
 ### Languages I know and my profficency 👨‍💻👨‍💻👨‍💻
 * Python - Well ✅
-* HTML - Intermediate 🤝
-* CSS - Intermediate 🤝
+* HTML - Beginner 👣
+* CSS - Begginer 👣
+
+
 
 
